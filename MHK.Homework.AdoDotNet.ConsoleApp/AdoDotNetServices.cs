@@ -47,7 +47,7 @@ namespace MHK.Homework.AdoDotNet.ConsoleApp
             }
             #endregion
         }
-        public void Write()
+        public void Create()
         {
             #region
             SqlConnection sqlConnection = new SqlConnection(sqlConnectionStringBuilder.ConnectionString);
