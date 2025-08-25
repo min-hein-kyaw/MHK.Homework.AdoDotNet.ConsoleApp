@@ -5,7 +5,7 @@ using System.Data;
 
 AdoDotNetServices adoDotNetServices = new AdoDotNetServices();
 //adoDotNetServices.Read();
-//adoDotNetServices.Write();
+//adoDotNetServices.Create();
 //adoDotNetServices.Update(); 
 //adoDotNetServices.Delete();
 
