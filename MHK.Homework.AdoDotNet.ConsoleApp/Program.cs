@@ -4,9 +4,17 @@ using Microsoft.Data.SqlClient;
 using System.Data;
 
 AdoDotNetServices adoDotNetServices = new AdoDotNetServices();
-//adoDotNetServices.Read();
-//adoDotNetServices.Create();
-//adoDotNetServices.Update(); 
-//adoDotNetServices.Delete();
+
+Console.WriteLine("Reading Data...");
+adoDotNetServices.Read();
+
+Console.WriteLine("Adding Data...");
+adoDotNetServices.Create();
+
+Console.WriteLine("Updating Data...");
+adoDotNetServices.Update();
+
+Console.WriteLine("Deleting Data...");
+adoDotNetServices.Delete();
 
 
