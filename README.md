@@ -1,1 +1,1 @@
-# MHK.Homework.AdoDotNet.ConsoleApp
+Homework submission for CRUD console application.
