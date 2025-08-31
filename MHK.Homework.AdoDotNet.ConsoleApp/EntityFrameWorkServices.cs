@@ -23,7 +23,7 @@ namespace MHK.Homework.AdoDotNet.ConsoleApp
             StudentDto stud = new StudentDto()
             {
                 SNumber = "S004",
-                Name = "ှStudent 004",
+                Name = "Student 004",
                 FatherName = " U Maung",
                 Gender = "M",
                 MobileNumber = "0934256",
